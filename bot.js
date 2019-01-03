@@ -18,7 +18,7 @@ channel.send(`asdfasdfasdgfasdfasdfsadfasdfasdfasdfasdfasdf`);
 }, 25)
 })
 
-var prefix = "16";
+var prefix = "15";
 
 client.on('message', message => {
 
